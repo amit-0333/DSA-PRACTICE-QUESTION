@@ -54,9 +54,9 @@ This repository includes solutions covering:
 
 ##  Highlights
 
-* Consistent coding practice 🧠
-* Focus on optimal approaches ⚡
-* Covers a wide range of DSA topics 📚
+* Consistent coding practice 
+* Focus on optimal approaches 
+* Covers a wide range of DSA topics 
 
 ---
 
@@ -72,7 +72,7 @@ This repository is a reflection of my **learning journey**, so solutions may evo
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **AMIT KUMAR**
 
