@@ -1,4 +1,4 @@
-# 📘 DSA with Python
+# DSA with Python
 
 This repository contains my complete journey of solving **Data Structures and Algorithms (DSA)** problems using **Python**.
 
@@ -6,16 +6,16 @@ Instead of listing individual problems, this repo represents my **consistent pra
 
 ---
 
-## 🚀 About This Repository
+##  About This Repository
 
-* 📚 Daily DSA practice
-* 🧠 Focus on problem-solving skills
-* ⚡ Writing optimized and clean code
-* 🔁 Revising important concepts regularly
+*  Daily DSA practice
+*  Focus on problem-solving skills
+*  Writing optimized and clean code
+*  Revising important concepts regularly
 
 ---
 
-## 🧩 What You'll Find
+##  What You'll Find
 
 This repository includes solutions covering:
 
@@ -33,7 +33,7 @@ This repository includes solutions covering:
 
 ---
 
-## 💡 Approach
+##  Approach
 
 * Start with **basic understanding**
 * Move from **brute force → optimized solutions**
@@ -43,7 +43,7 @@ This repository includes solutions covering:
 
 ---
 
-## 📈 My Learning Goals
+##  My Learning Goals
 
 * Improve problem-solving skills
 * Build strong DSA foundation
@@ -52,7 +52,7 @@ This repository includes solutions covering:
 
 ---
 
-## 🔥 Highlights
+##  Highlights
 
 * Consistent coding practice 🧠
 * Focus on optimal approaches ⚡
@@ -60,13 +60,13 @@ This repository includes solutions covering:
 
 ---
 
-## 🛠️ Language Used
+##  Language Used
 
-* Python 🐍
+* Python 
 
 ---
 
-## 📌 Note
+##  Note
 
 This repository is a reflection of my **learning journey**, so solutions may evolve and improve over time.
 
@@ -74,7 +74,7 @@ This repository is a reflection of my **learning journey**, so solutions may evo
 
 ## 👨‍💻 Author
 
-**AMIT**
+**AMIT KUMAR**
 
 ---
 
