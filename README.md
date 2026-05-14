@@ -21,16 +21,17 @@ Every problem solved here represents a step toward stronger logic, cleaner code,
 | # | Topic | Status |
 |---|-------|--------|
 | 01 | 📦 Arrays | 🟢 Practicing |
-| 02 | 🔤 Strings | 🟢 Practicing |
-| 03 | 🔁 Recursion & Backtracking | 🟢 Practicing |
-| 04 | 🔗 Linked List | 🟢 Practicing |
-| 05 | 📚 Stacks & Queues | 🟢 Practicing |
-| 06 | 🌳 Binary Trees | 🟢 Practicing |
-| 07 | 🔍 Binary Search | 🟢 Practicing |
-| 08 | 🌲 Binary Search Tree | 🟢 Practicing |
-| 09 | 🕸️ Graphs | 🔄 In Progress |
-| 10 | 🏔️ Heaps | 🔄 In Progress |
-| 11 | 🧩 Dynamic Programming | 🔮 Future |
+| 02 | 🌲 Binary Search Tree | 🟢 Practicing |
+| 03 | 🔍 Binary Search | 🟢 Practicing |
+| 04 | 🌳 Binary Trees | 🟢 Practicing |
+| 05 | 🕸️ Graphs | 🟢 Practicing |
+| 06 | 🏔️ Heaps | 🟢 Practicing |
+| 07 | 🔗 Linked List | 🟢 Practicing |
+| 08 | 🔁 Recursion & Backtracking | 🟢 Practicing |
+| 09 | 📚 Stacks & Queues | 🟢 Practicing |
+| 10 | 🔤 Strings | 🟢 Practicing |
+| 11 | 🧩 Dynamic Programming | 🔮 Coming Soon |
+| 12 | 💡 Greedy Algorithms | 🔮 Coming Soon |
 
 ---
 
@@ -40,15 +41,17 @@ Every problem solved here represents a step toward stronger logic, cleaner code,
 DSA-PRACTICE-QUESTION/
 │
 ├── 📂 Arrays/
-├── 📂 Strings/
-├── 📂 Recursion and Backtracking/
-├── 📂 Linked List/
-├── 📂 Stacks and Queues/
-├── 📂 Binary Trees/
-├── 📂 Binary Search/
 ├── 📂 Binary Search Tree/
+├── 📂 Binary Search/
+├── 📂 Binary Trees/
 ├── 📂 Graphs/
 ├── 📂 Heaps/
+├── 📂 Linked List/
+├── 📂 Recursion and Backtracking/
+├── 📂 Stacks and Queues/
+├── 📂 Strings/
+├── 📂 Dynamic Programming/        ← Coming Soon
+├── 📂 Greedy/                     ← Coming Soon
 └── 📄 README.md
 ```
 
@@ -72,9 +75,10 @@ DSA-PRACTICE-QUESTION/
 - [x] Cover Arrays & Strings
 - [x] Cover Recursion & Backtracking
 - [x] Cover Linked List, Stacks & Queues
-- [x] Cover Binary Trees & Binary Search
-- [x] Cover Binary Search Tree
-- [ ] Complete Graphs & Heaps
+- [x] Cover Binary Trees, Binary Search & BST
+- [x] Cover Graphs & Heaps
+- [ ] Add Dynamic Programming
+- [ ] Add Greedy Algorithms
 - [ ] Solve 100+ problems
 - [ ] Build strong interview-ready DSA foundation
 
