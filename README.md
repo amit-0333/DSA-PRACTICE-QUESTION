@@ -1,81 +1,115 @@
-# DSA with Python
+# 🧠 DSA with Python — Practice Problems
 
-This repository contains my complete journey of solving **Data Structures and Algorithms (DSA)** problems using **Python**.
+> My consistent journey of solving Data Structures & Algorithms problems using Python — from brute force to optimized solutions.
 
-Instead of listing individual problems, this repo represents my **consistent practice, learning, and improvement over time**.
-
----
-
-##  About This Repository
-
-*  Daily DSA practice
-*  Focus on problem-solving skills
-*  Writing optimized and clean code
-*  Revising important concepts regularly
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ---
 
-##  What You'll Find
+## 📌 About
 
-This repository includes solutions covering:
-
-* Arrays & Strings
-* Recursion & Backtracking
-* Searching & Sorting
-* Linked List
-* Stack & Queue
-* Trees & Binary Trees
-* Binary Search
-* Hashing
-* Two Pointers
-* Sliding Window
-* Dynamic Programming
+This repository is my **live DSA practice journal** — not just a collection of solutions, but a reflection of my growth as a problem solver.  
+Every problem solved here represents a step toward stronger logic, cleaner code, and interview readiness.
 
 ---
 
-##  Approach
+## 📚 Topics Covered
 
-* Start with **basic understanding**
-* Move from **brute force → optimized solutions**
-* Focus on **logic building**
-* Write **clean and readable Python code**
-* Add **time and space complexity** in solutions
-
----
-
-##  My Learning Goals
-
-* Improve problem-solving skills
-* Build strong DSA foundation
-* Prepare for coding interviews
-* Stay consistent and disciplined
-
----
-
-##  Highlights
-
-* Consistent coding practice 
-* Focus on optimal approaches 
-* Covers a wide range of DSA topics 
+| # | Topic | Status |
+|---|-------|--------|
+| 01 | 📦 Arrays | 🟢 Practicing |
+| 02 | 🔤 Strings | 🟢 Practicing |
+| 03 | 🔁 Recursion & Backtracking | 🟢 Practicing |
+| 04 | 🔗 Linked List | 🟢 Practicing |
+| 05 | 📚 Stacks & Queues | 🟢 Practicing |
+| 06 | 🌳 Binary Trees | 🟢 Practicing |
+| 07 | 🔍 Binary Search | 🟢 Practicing |
+| 08 | 🌲 Binary Search Tree | 🟢 Practicing |
+| 09 | 🕸️ Graphs | 🔄 In Progress |
+| 10 | 🏔️ Heaps | 🔄 In Progress |
+| 11 | 🧩 Dynamic Programming | 🔮 Future |
 
 ---
 
-##  Language Used
+## 🗂️ Repository Structure
 
-* Python 
+```bash
+DSA-PRACTICE-QUESTION/
+│
+├── 📂 Arrays/
+├── 📂 Strings/
+├── 📂 Recursion and Backtracking/
+├── 📂 Linked List/
+├── 📂 Stacks and Queues/
+├── 📂 Binary Trees/
+├── 📂 Binary Search/
+├── 📂 Binary Search Tree/
+├── 📂 Graphs/
+├── 📂 Heaps/
+└── 📄 README.md
+```
 
 ---
 
-##  Note
+## 🧩 My Approach to Every Problem
 
-This repository is a reflection of my **learning journey**, so solutions may evolve and improve over time.
+```
+1. 📖 Understand the problem clearly
+2. 🔨 Write brute force solution first
+3. 🚀 Optimize — think about time & space complexity
+4. 🧹 Write clean, readable Python code
+5. ✅ Add time & space complexity in comments
+```
 
 ---
 
-##  Author
+## 🎯 Learning Goals
 
-**AMIT KUMAR**
+- [x] Start consistent DSA practice
+- [x] Cover Arrays & Strings
+- [x] Cover Recursion & Backtracking
+- [x] Cover Linked List, Stacks & Queues
+- [x] Cover Binary Trees & Binary Search
+- [x] Cover Binary Search Tree
+- [ ] Complete Graphs & Heaps
+- [ ] Solve 100+ problems
+- [ ] Build strong interview-ready DSA foundation
 
 ---
 
-⭐ If you find this helpful, consider giving it a star!
+## 🛠️ Language Used
+
+- 🐍 **Python** — clean, readable, interview-friendly
+
+---
+
+## 🚀 How to Run
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/amit-0333/DSA-PRACTICE-QUESTION.git
+
+# 2. Navigate to the folder
+cd DSA-PRACTICE-QUESTION
+
+# 3. Open any notebook
+jupyter notebook
+```
+
+---
+
+## 👨‍💻 Author
+
+**Amit Kumar**  
+[![GitHub](https://img.shields.io/badge/GitHub-amit--0333-181717?style=flat&logo=github)](https://github.com/amit-0333)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Kumar-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/amit-kumar-a62a3640a/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-amitkumar038975-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/amitkumar038975)
+
+---
+
+> 📝 *This repository evolves as I grow — solutions may improve over time as I learn better approaches.*
+
+⭐ **Star this repo if it motivated you to practice DSA!**
