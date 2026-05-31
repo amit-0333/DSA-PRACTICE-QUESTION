@@ -1,18 +1,40 @@
-# 🧠 DSA with Python — Practice Problems
+<div align="center">
+
+```
+██████╗ ███████╗ █████╗     ██████╗ ██████╗  █████╗  ██████╗████████╗██╗ ██████╗███████╗
+██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██║██╔════╝██╔════╝
+██║  ██║███████╗███████║    ██████╔╝██████╔╝███████║██║        ██║   ██║██║     █████╗  
+██║  ██║╚════██║██╔══██║    ██╔═══╝ ██╔══██╗██╔══██║██║        ██║   ██║██║     ██╔══╝  
+██████╔╝███████║██║  ██║    ██║     ██║  ██║██║  ██║╚██████╗   ██║   ██║╚██████╗███████╗
+╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝ ╚═════╝╚══════╝
+```
+
+### 🧠 DSA with Python — Practice Problems
 
 > My consistent journey of solving Data Structures & Algorithms problems using Python — from brute force to optimized solutions.
+
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Practice-orange?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
+</div>
+
 ---
 
 ## 📌 About
 
-This repository is my **live DSA practice journal** — not just a collection of solutions, but a reflection of my growth as a problem solver.  
+This is my **live DSA practice journal** — not just a collection of solutions, but a reflection of my growth as a problem solver.
 Every problem solved here represents a step toward stronger logic, cleaner code, and interview readiness.
+
+Built to master:
+- Solving problems from brute force → optimized
+- Analyzing time & space complexity for every solution
+- Writing clean, readable, interview-friendly Python
+- Covering all major DSA topics systematically
+- Building a strong foundation for coding interviews
 
 ---
 
@@ -21,15 +43,15 @@ Every problem solved here represents a step toward stronger logic, cleaner code,
 | # | Topic | Status |
 |---|-------|--------|
 | 01 | 📦 Arrays | 🟢 Practicing |
-| 02 | 🌲 Binary Search Tree | 🟢 Practicing |
+| 02 | 🔤 Strings | 🟢 Practicing |
 | 03 | 🔍 Binary Search | 🟢 Practicing |
-| 04 | 🌳 Binary Trees | 🟢 Practicing |
-| 05 | 🕸️ Graphs | 🟢 Practicing |
-| 06 | 🏔️ Heaps | 🟢 Practicing |
-| 07 | 🔗 Linked List | 🟢 Practicing |
-| 08 | 🔁 Recursion & Backtracking | 🟢 Practicing |
-| 09 | 📚 Stacks & Queues | 🟢 Practicing |
-| 10 | 🔤 Strings | 🟢 Practicing |
+| 04 | 🔁 Recursion & Backtracking | 🟢 Practicing |
+| 05 | 🔗 Linked List | 🟢 Practicing |
+| 06 | 📚 Stacks & Queues | 🟢 Practicing |
+| 07 | 🌳 Binary Trees | 🟢 Practicing |
+| 08 | 🌲 Binary Search Tree | 🟢 Practicing |
+| 09 | 🕸️ Graphs | 🟢 Practicing |
+| 10 | 🏔️ Heaps | 🟢 Practicing |
 | 11 | 🧩 Dynamic Programming | 🔮 Coming Soon |
 | 12 | 💡 Greedy Algorithms | 🔮 Coming Soon |
 
@@ -41,18 +63,36 @@ Every problem solved here represents a step toward stronger logic, cleaner code,
 DSA-PRACTICE-QUESTION/
 │
 ├── 📂 Arrays/
-├── 📂 Binary Search Tree/
+├── 📂 Strings/
 ├── 📂 Binary Search/
+├── 📂 Recursion and Backtracking/
+├── 📂 Linked List/
+├── 📂 Stacks and Queues/
 ├── 📂 Binary Trees/
+├── 📂 Binary Search Tree/
 ├── 📂 Graphs/
 ├── 📂 Heaps/
-├── 📂 Linked List/
-├── 📂 Recursion and Backtracking/
-├── 📂 Stacks and Queues/
-├── 📂 Strings/
 ├── 📂 Dynamic Programming/        ← Coming Soon
 ├── 📂 Greedy/                     ← Coming Soon
 └── 📄 README.md
+```
+
+---
+
+## ⚙️ How to Run
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/amit-0333/DSA-PRACTICE-QUESTION.git
+
+# 2. Navigate into the folder
+cd DSA-PRACTICE-QUESTION
+
+# 3. Install Jupyter
+pip install jupyter
+
+# 4. Open any notebook
+jupyter notebook
 ```
 
 ---
@@ -84,36 +124,27 @@ DSA-PRACTICE-QUESTION/
 
 ---
 
-## 🛠️ Language Used
+## 🛠️ Tech Stack
 
 - 🐍 **Python** — clean, readable, interview-friendly
-
----
-
-## 🚀 How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/amit-0333/DSA-PRACTICE-QUESTION.git
-
-# 2. Navigate to the folder
-cd DSA-PRACTICE-QUESTION
-
-# 3. Open any notebook
-jupyter notebook
-```
+- 📓 **Jupyter Notebook** — interactive problem solving
 
 ---
 
 ## 👨‍💻 Author
 
-**Amit Kumar**  
+**Amit Kumar**
+
 [![GitHub](https://img.shields.io/badge/GitHub-amit--0333-181717?style=flat&logo=github)](https://github.com/amit-0333)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Kumar-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/amit-kumar-a62a3640a/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-amitkumar038975-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/amitkumar038975)
 
 ---
 
+<div align="center">
+
 > 📝 *This repository evolves as I grow — solutions may improve over time as I learn better approaches.*
 
 ⭐ **Star this repo if it motivated you to practice DSA!**
+
+</div>
